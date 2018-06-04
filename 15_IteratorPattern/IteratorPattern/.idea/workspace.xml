@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40ec521c-6882-474d-8118-7d9ef40f1ec2" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="12" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Seller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/Seller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1363#1364#0" expanded="true" />
+                <element signature="e#1390#1391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/Iterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DevStoreIterator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/DevStoreIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="29" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICatalog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/ICatalog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeekyStoreIterator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/GeekyStoreIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/model/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DevStoreCatalog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/DevStoreCatalog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1189#1190#0" expanded="true" />
+                <element signature="e#1251#1252#0" expanded="true" />
+                <element signature="e#1423#1424#0" expanded="true" />
+                <element signature="e#1449#1450#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeekyStoreCatalog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/GeekyStoreCatalog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-242">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+                <element signature="e#1176#1177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/java/course/Catalog/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/iteratorimplementation/DevStoreIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/iteratorimplementation/GeekyStoreIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/iterator/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/iterator/DevStoreIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/iterator/ICatalog.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/Catalog/DevStoreCatalog.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/Catalog/Seller.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/iterator/GeekyStoreIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/Catalog/GeekyStoreCatalog.java" />
+        <option value="$PROJECT_DIR$/src/com/java/course/model/Product.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-58" />
+    <option name="y" value="194" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IteratorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IteratorPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IteratorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IteratorPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IteratorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IteratorPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IteratorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IteratorPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="Catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IteratorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IteratorPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IteratorPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IteratorPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.java.course.iterator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.course.Catalog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.course.Main" />
+      <module name="IteratorPattern" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40ec521c-6882-474d-8118-7d9ef40f1ec2" name="Default" comment="" />
+      <created>1527255184547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527255184547</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32901832" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1197411" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/Seller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/DevStoreCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="961">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1189#1190#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/GeekyStoreCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/iteratorimplementation/DevStoreIterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/iteratorimplementation/GeekyStoreIterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/Seller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="12" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/DevStoreCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1189#1190#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/Catalog/GeekyStoreCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/DevStoreIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/GeekyStoreIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/ICatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/iterator/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/course/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
