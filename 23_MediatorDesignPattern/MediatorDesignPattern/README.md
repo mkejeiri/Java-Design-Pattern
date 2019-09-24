@@ -1,5 +1,5 @@
 # Mediator design pattern
-[![N|Picture](./figure1.jpg)]
+[![N|Picture](./figure1.jpg)
 
 
 Centralizes complex communications and control between related object, such as a Complex system which contains subsystems
@@ -11,4 +11,4 @@ Centralizes complex communications and control between related object, such as a
 	
 	
 
-[![N|Picture](./figure2.jpg)]
+[![N|Picture](./figure2.jpg)
